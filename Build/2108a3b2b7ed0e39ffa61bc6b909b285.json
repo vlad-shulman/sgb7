@@ -1,0 +1,16 @@
+{
+"companyName": "fika",
+"productName": "fika",
+"dataUrl": "7de063c35c1dfb862d4d98b8dac186ad.unityweb",
+"wasmCodeUrl": "dec91802a8a8cae30e9ae3828859d650.unityweb",
+"wasmFrameworkUrl": "ffad80a5b7449022f188e49dd96f49bc.unityweb",
+"wasmSymbolsUrl": "b4a35387a8bf079215f43c87682a8802.unityweb",
+"asmCodeUrl": "439c04f9d372c2510cfe1ed17873d246.unityweb",
+"asmMemoryUrl": "ec2cb60fa662919e6ffefde377aac5c9.unityweb",
+"asmFrameworkUrl": "0b866093387135c5c21e2bf1e4ac40f2.unityweb",
+"asmSymbolsUrl": "98bda66d01b08568ae57206caa9e4903.unityweb",
+"TOTAL_MEMORY": 83886080,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}
